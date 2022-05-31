@@ -11,51 +11,35 @@ Not exactly 1-to-1 with the official repo, as we organized the code to out own l
 * Can use Spherical, or Spiral poses to generate videos for all 3 datasets
   * Spherical:
 
-[//]: # (<video controls>)
+https://user-images.githubusercontent.com/42706447/171090423-2cf37b0d-44c9-4394-8c4a-46f19b0eb304.mp4
 
-[//]: # (    <source src="misc/results/lego/video.mp4" type="video/mp4">)
-
-[//]: # (</video>)
 
   * Spiral:
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/lego/video_spiral.mp4" type="video/mp4">)
 
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171091356-70161da4-e070-400a-a7e3-371bdc48cc1f.mp4
+
+
 
 * Depth and Normals video renderings:
-  * Depth:
+* Depth:
 
-[//]: # (<video controls>)
+https://user-images.githubusercontent.com/42706447/171091394-ce73822c-689f-496b-8821-78883e8b90d4.mp4
 
-[//]: # (    <source src="misc/results/lego/depth.mp4" type="video/mp4">)
+* Normals:
 
-[//]: # (</video>)
-
-  * Normals:
-
-[//]: # (<video controls>)
-
-[//]: # (    <source src="misc/results/lego/normals.mp4" type="video/mp4">)
-
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171091457-c795855e-f8f8-4515-ae62-7eeb707d17bc.mp4
 
 * Can extract meshes
   * Default Mesh
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/lego/mesh.mkv" type="video/mkv">)
 
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171092108-b60130b5-297d-4e72-8d3a-3e5a29c83036.mp4
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/mic/mesh.mkv" type="video/mkv">)
-
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171093312-7b01624d-050c-4a3a-a266-80596858de06.mp4
 
 
 
@@ -126,29 +110,30 @@ Here's a summary on how NeRF and mip-NeRF work that I wrote when writing this or
 Video:
 <br>
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/trex/video.mp4" type="video/mp4">)
+https://user-images.githubusercontent.com/42706447/171091718-13c57fb4-8cfe-4fe5-b430-93a630b58552.mp4
 
-[//]: # (</video>)
+
+
 <br>
 Depth:
 <br>
 
-[//]: # (<video controls>)
 
-[//]: # (<source src="misc/results/trex/depth.mp4" type="video/mp4">)
 
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171092147-13b91f2f-b9b7-4137-92b2-9964c2539675.mp4
+
+
+
 <br>
 Normals:
 <br>
 
-[//]: # (<video controls>)
 
-[//]: # (<source src="misc/results/trex/normals.mp4" type="video/mp4">)
 
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171093167-52c42b7d-4274-4b5c-904f-fd74ceb3d634.mp4
+
+
 
 ### Blender - Lego
 
@@ -163,29 +148,19 @@ Normals:
 Video:
 <br>
 
-[//]: # (<video controls>)
+https://user-images.githubusercontent.com/42706447/171090423-2cf37b0d-44c9-4394-8c4a-46f19b0eb304.mp4
 
-[//]: # (    <source src="misc/results/lego/video.mp4" type="video/mp4">)
-
-[//]: # (</video>)
 <br>
 Depth:
 <br>
 
-[//]: # (<video controls>)
+https://user-images.githubusercontent.com/42706447/171091394-ce73822c-689f-496b-8821-78883e8b90d4.mp4
 
-[//]: # (    <source src="misc/results/lego/depth.mp4" type="video/mp4">)
-
-[//]: # (</video>)
 <br>
 Normals:
 <br>
 
-[//]: # (<video controls>)
-
-[//]: # (    <source src="misc/results/lego/normals.mp4" type="video/mp4">)
-
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171091457-c795855e-f8f8-4515-ae62-7eeb707d17bc.mp4
 
 ### Multicam - Mic
 
@@ -200,29 +175,27 @@ Normals:
 Video:
 <br>
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/mic/video.mp4" type="video/mp4">)
 
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171092321-093c2002-8d8d-4c59-bb12-d6075a8f320b.mp4
+
+
 <br>
 Depth:
 <br>
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/mic/depth.mp4" type="video/mp4">)
 
-[//]: # (</video>)
+https://user-images.githubusercontent.com/42706447/171092330-7625541f-f0f8-4f30-8016-64e6bed2085a.mp4
+
+
 <br>
 Normals:
 <br>
 
-[//]: # (<video controls>)
 
-[//]: # (    <source src="misc/results/mic/normals.mp4" type="video/mp4">)
+https://user-images.githubusercontent.com/42706447/171092348-9315a897-a6a3-4c49-aedf-3f3331fdfe52.mp4
 
-[//]: # (</video>)
 
 ## References/Contributions
 
