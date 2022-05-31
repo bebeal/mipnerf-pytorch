@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/42706447/171090423-2cf37b0d-44c9-4394-
 
   * Spiral:
 
-https://user-images.githubusercontent.com/42706447/171096197-732dc5b9-3098-4193-a472-9df1e3ca0b9d.mp4
+https://user-images.githubusercontent.com/42706447/171099856-f7340263-1d65-4fbe-81e7-3b2dfa9e93b8.mp4
 
  
 * Depth and Normals video renderings:
@@ -30,7 +30,8 @@ https://user-images.githubusercontent.com/42706447/171091457-c795855e-f8f8-4515-
 
 * Can extract meshes
 
-https://user-images.githubusercontent.com/42706447/171096392-a11aa9cf-9b93-411b-a381-9d46a0f0b2a8.mp4
+
+https://user-images.githubusercontent.com/42706447/171100048-8f57fc9a-4be5-44c2-93dd-ee5f6b54dd6e.mp4
 
 
 https://user-images.githubusercontent.com/42706447/171092108-b60130b5-297d-4e72-8d3a-3e5a29c83036.mp4
@@ -103,7 +104,8 @@ Here's a summary on how NeRF and mip-NeRF work that I wrote when writing this or
 Video:
 <br>
 
-https://user-images.githubusercontent.com/42706447/171096360-99644be4-c0c2-463f-b7a2-965a15318fb9.mp4
+
+https://user-images.githubusercontent.com/42706447/171100120-0a0c9785-8ee7-4905-a6f6-190269fb24c6.mp4
 
 
 <br>
@@ -111,7 +113,7 @@ Depth:
 <br>
 
 
-https://user-images.githubusercontent.com/42706447/171096364-829a3f4a-f6b5-498f-8192-f7eb021f62f2.mp4
+https://user-images.githubusercontent.com/42706447/171100098-9735d79a-c22f-4873-bb4b-005eef3bc35a.mp4
 
 
 <br>
@@ -119,7 +121,7 @@ Normals:
 <br>
 
 
-https://user-images.githubusercontent.com/42706447/171096368-46f8cb0b-bb2a-4cb9-8cee-1d7feb59185a.mp4
+https://user-images.githubusercontent.com/42706447/171100112-4245abd8-bf69-4655-b14c-9703c13c38fb.mp4
 
 
 ### Blender - Lego
