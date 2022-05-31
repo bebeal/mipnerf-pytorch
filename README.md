@@ -89,6 +89,8 @@ Here's a summary on how NeRF and mip-NeRF work that I wrote when writing this or
 
 ## Results
 
+<sub><sup>All PSNRs are average PSNR (coarse + fine).</sub></sup>
+
 ### LLFF - Trex
 
 <div>
