@@ -18,8 +18,6 @@ https://user-images.githubusercontent.com/42706447/171090423-2cf37b0d-44c9-4394-
 
 
 
-https://user-images.githubusercontent.com/42706447/171091356-70161da4-e070-400a-a7e3-371bdc48cc1f.mp4
-
 
 
 * Depth and Normals video renderings:
@@ -34,13 +32,7 @@ https://user-images.githubusercontent.com/42706447/171091457-c795855e-f8f8-4515-
 * Can extract meshes
   * Default Mesh
 
-
-
 https://user-images.githubusercontent.com/42706447/171092108-b60130b5-297d-4e72-8d3a-3e5a29c83036.mp4
-
-
-https://user-images.githubusercontent.com/42706447/171093312-7b01624d-050c-4a3a-a266-80596858de06.mp4
-
 
 
 ## Future Plans
@@ -111,27 +103,15 @@ Video:
 <br>
 
 
-https://user-images.githubusercontent.com/42706447/171091718-13c57fb4-8cfe-4fe5-b430-93a630b58552.mp4
-
-
-
 <br>
 Depth:
 <br>
 
 
 
-https://user-images.githubusercontent.com/42706447/171092147-13b91f2f-b9b7-4137-92b2-9964c2539675.mp4
-
-
-
 <br>
 Normals:
 <br>
-
-
-
-https://user-images.githubusercontent.com/42706447/171093167-52c42b7d-4274-4b5c-904f-fd74ceb3d634.mp4
 
 
 
