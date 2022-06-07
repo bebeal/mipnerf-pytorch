@@ -9,12 +9,12 @@ Not exactly 1-to-1 with the official repo, as we organized the code to out own l
 ## Features
 
 * Can use Spherical, or Spiral poses to generate videos for all 3 datasets
-  * Spherical:
+* Spherical:
 
 https://user-images.githubusercontent.com/42706447/171090423-2cf37b0d-44c9-4394-8c4a-46f19b0eb304.mp4
 
 
-  * Spiral:
+* Spiral:
 
 https://user-images.githubusercontent.com/42706447/171099856-f7340263-1d65-4fbe-81e7-3b2dfa9e93b8.mp4
 
