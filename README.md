@@ -2,7 +2,7 @@
 
 A reimplementation of mip-NeRF in PyTorch. 
 
-![mipnerf](misc/images/nerfTomipnerf.png)
+![nerfTomipnerf](https://user-images.githubusercontent.com/42706447/173477320-06b7705c-d061-4933-a8be-8c1c272ee101.png)
 
 Not exactly 1-to-1 with the official repo, as we organized the code to out own liking (mostly how the datasets are structued, and hyperparam changes to run the code on a consumer level graphics card), made it more modular, and removed some repetitive code, but it achieves the same results.
 
@@ -94,12 +94,12 @@ Here's a summary on how NeRF and mip-NeRF work that I wrote when writing this or
 ### LLFF - Trex
 
 <div>
-   <img src="misc/results/trex/LR.png" alt="pic0" width="49%">
-   <img src="misc/results/trex/Evaluation_PSNR.png" alt="pic1" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477393-8b93a3f8-3624-4826-a67c-82923d03ea34.png" alt="pic0" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477391-1f932ca3-6456-4af5-b041-bf63dbbed68a.png" alt="pic1" width="49%">
 </div>
 <div>
-   <img src="misc/results/trex/Train_Loss.png" alt="pic2" width="49%">
-   <img src="misc/results/trex/Train_PSNR.png" alt="pic3" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477394-9ab07f60-58b9-4311-8aba-c052412b4f68.png" alt="pic2" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477395-d69bdb34-ea6e-43de-8315-88c6f5e251e7.png" alt="pic3" width="49%">
 </div>
 
 <br>
@@ -129,13 +129,14 @@ https://user-images.githubusercontent.com/42706447/171100112-4245abd8-bf69-4655-
 ### Blender - Lego
 
 <div>
-   <img src="misc/results/lego/LR.png" alt="pic0" width="49%">
-   <img src="misc/results/lego/Evaluation_PSNR.png" alt="pic1" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477588-a4d0034d-b8e5-4ea2-9459-5fff3e6b1cde.png" alt="pic0" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477593-d23a9603-b6b5-4d4f-9a2b-dcfd0d646dbc.png" alt="pic1" width="49%">
 </div>
 <div>
-   <img src="misc/results/lego/Train_Loss.png" alt="pic2" width="49%">
-   <img src="misc/results/lego/Train_PSNR.png" alt="pic3" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477594-ee6e5dda-b704-4403-9433-ee93bf2a8154.png" alt="pic2" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477595-2f0e2d88-e241-4ddc-809d-927c6e01c881.png" alt="pic3" width="49%">
 </div>
+
 Video:
 <br>
 
@@ -156,19 +157,18 @@ https://user-images.githubusercontent.com/42706447/171091457-c795855e-f8f8-4515-
 ### Multicam - Mic
 
 <div>
-   <img src="misc/results/mic/LR.png" alt="pic0" width="49%">
-   <img src="misc/results/mic/Evaluation_PSNR.png" alt="pic1" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477781-2c48d8e0-b0e5-4cd4-9599-cc0336333b30.png" alt="pic0" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477778-9fd4c802-e0b2-4e0b-bc31-6f27abc92c87.png" alt="pic1" width="49%">
 </div>
 <div>
-   <img src="misc/results/mic/Train_Loss.png" alt="pic2" width="49%">
-   <img src="misc/results/mic/Train_PSNR.png" alt="pic3" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477782-ec40bc91-1da7-49d2-b65b-b3250f34a8fc.png" alt="pic2" width="49%">
+   <img src="https://user-images.githubusercontent.com/42706447/173477784-8dfa7bc7-7122-40ed-855a-0081a593f1ce.png" alt="pic3" width="49%">
 </div>
+
 Video:
 <br>
 
 https://user-images.githubusercontent.com/42706447/171100600-7f3307c7-0ca4-4677-b9b7-180cf27fd175.mp4
-
-
 
 <br>
 Depth:
