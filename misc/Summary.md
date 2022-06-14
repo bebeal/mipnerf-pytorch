@@ -12,7 +12,7 @@ NeRF is a method for synthesizing novel views of complex scenes by optimizing an
 
 <center>
 <figure>
-    <img src="images/nerfpipelinemain.png" alt="NeRF Pipeline">
+    <img src="https://user-images.githubusercontent.com/42706447/173478044-32c19409-ce43-4582-b487-a089019cf750.png" alt="NeRF Pipeline">
     <figcaption><b>Figure 1: NeRF Pipeline</b></figcaption>
 </figure>
 </center>
@@ -45,7 +45,7 @@ Finally volume rendering techniques are used to composite these values into an i
 
 <center>
 <figure>
-    <img src="images/NeRFArchitecture.png" alt="NeRF Model Architecture">
+    <img src="https://user-images.githubusercontent.com/42706447/173478103-a23aec25-ade3-4dfd-b320-b53da221eaad.png" alt="NeRF Model Architecture">
     <figcaption><b>Figure 2: NeRF Model Architecture</b></figcaption>
 </figure>
 </center>
@@ -62,7 +62,7 @@ mip-NeRF take inspiration from the mipmapping approach used to prevent aliasing 
 
 <center>
 <figure>
-    <img src="images/nerfTomipnerf.png" alt="mip-NeRF">
+    <img src="https://user-images.githubusercontent.com/42706447/173478183-0a627268-b1b0-45e8-a8ad-d34bcd84294e.png" alt="mip-NeRF">
     <figcaption><b>Figure 3: mip-NeRF</b></figcaption>
 </figure>
 </center>
@@ -77,7 +77,7 @@ Where NeRF shoots a ray in to the scene
 
 <center>
 <figure>
-    <img src="images/nerfR.png" alt="NeRF Ray">
+    <img src="https://user-images.githubusercontent.com/42706447/173478219-3fcf4dfb-ce2b-49bf-b35a-8d6170bf8065.png" alt="NeRF Ray">
     <figcaption><b>Figure 4: NeRF Ray</b></figcaption>
 </figure>
 </center>
@@ -86,7 +86,7 @@ mip-NeRF shoots a cone into the scene and then slices the cone into conical frus
 
 <center>
 <figure>
-    <img src="images/mipNerfR.png" alt="mip-NeRF frustum">
+    <img src="https://user-images.githubusercontent.com/42706447/173478242-88264643-8b9b-473a-84ad-dfbdcbc1e38b.png" alt="mip-NeRF frustum">
     <figcaption><b>Figure 5: mip-NeRF anti-aliased conical frustums</b></figcaption>
 </figure>
 </center>
@@ -95,7 +95,7 @@ Then we fit a multivariate gaussian to approximate the conical frustum. This all
 
 <center>
 <figure>
-    <img src="images/mipNerfG.png" alt="mip-NeRF gaussian">
+    <img src="https://user-images.githubusercontent.com/42706447/173478267-d96de152-5639-4b04-bac4-6a6086805fed.png" alt="mip-NeRF gaussian">
     <figcaption><b>Figure 6: mip-NeRF Gaussian Approximation</b></figcaption>
 </figure>
 </center>
@@ -143,10 +143,9 @@ $$
 ### mip-NeRF Architecture
 
 The architecture of mip-NeRF largely follows that of NeRF
-
 <center>
 <figure>
-    <img src="images/mipnerfArchitecture.png" alt="mip-NeRF Model Architecture">
+    <img src="https://user-images.githubusercontent.com/42706447/173478353-33a84b93-7d6e-4945-9dd2-4f0d42e812c4.png" alt="mip-NeRF Model Architecture">
     <figcaption><b>Figure 7: mip-NeRF Model Architecture</b></figcaption>
 </figure>
 </center>
